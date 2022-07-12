@@ -9,4 +9,4 @@ Proje 3
   [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
   
   
-  ![Tree](file:///C:/Users/Yi%C4%9Fit/Downloads/tree.jpeg)
+  <img src="Desktop/tree.jpg" alt="Binary Search Tree"/>
